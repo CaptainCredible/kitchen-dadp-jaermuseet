@@ -1,3 +1,4 @@
+
 let rabbitMode = false
 let rabbitNames: string[] = ["Ali", "Eir", "Ina", "Una", "Per", "Alf", "Ada", "Ela", "Eli", "Mor", "Oda", "Ask", "Kai", "Ida", "Kim", "Eva"]
 
@@ -185,7 +186,7 @@ flip = false
 pauseLength = 0
 serial.redirectToUSB()
 myOnTimer = 10
-portAOnTimes = [20, 26, 20, 20, 20, 30, 25, 30]
+portAOnTimes = [20, 26, 26, 32, 20, 36, 25, 30]
 portBOnTimes = [20, 20, 20, 20, 20, 20, 20, 20]
 portATimers = [0, 0, 0, 0, 0, 0, 0, 0]
 portBTimers = [0, 0, 0, 0, 0, 0, 0, 0]
